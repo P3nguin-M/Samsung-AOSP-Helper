@@ -6,6 +6,7 @@ ext4fuse
 mkbootimg
 
 Random AOSP Script built while trying to build a userdebug build for BL Unlocked S25 on 15.0
+File:
 prepare_samfw.sh
 
 place binaries in /project_name/compile_bin or change path in script to whatever you desire! 
